@@ -1,0 +1,17 @@
+#result, #score{
+  text-align: center;
+}
+
+#result{
+  font-size: 100px;
+}
+
+#score{
+  font-size: 50px;
+}
+
+
+#diceroller{
+  font-size: 30px;
+  border-radius: 20px;
+}
